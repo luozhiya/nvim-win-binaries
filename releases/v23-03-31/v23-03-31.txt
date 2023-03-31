@@ -1,0 +1,15 @@
+Folder PATH listing for volume Machines
+Volume serial number is 0FF9-896C
+E:.
+    fd-v8.7.0-i686-pc-windows-msvc.zip
+    gitui-win.tar.gz
+    lazygit_0.37.0_Windows_x86_64.zip
+    make-4.4.1-without-guile-w32-bin.zip
+    neovide-windows-0.10.3.zip
+    ripgrep-13.0.0-x86_64-pc-windows-msvc.zip
+    sqlite-dll-win64-x64-3410200.zip
+    stylua-windows-x86_64-v0.17.1.zip
+    v23-03-31.txt
+    
+No subfolders exist 
+
